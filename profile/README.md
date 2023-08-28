@@ -1,5 +1,7 @@
 # RC Journey #
 
+![Banner](../navbar-logo.png)
+
 Welcome to RC Journey!
 
 ## Our Mission ##
