@@ -1,5 +1,7 @@
 # RC Journey #
 
+![Imgur](https://i.imgur.com/lhtJ1YC.jpg)
+
 Welcome to RC Journey!
 
 ## Our Mission ##
