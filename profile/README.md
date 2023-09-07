@@ -24,4 +24,4 @@ We envision a society where the barriers that returned citizens face are dismant
 
 ## Join Us On the Journey ##
 
-If you're passionate about technology, creativity, and making a positive impact, RC Journey welcomes you. Whether you're a former inmate seeking a fresh start or someone who believes in the power of second chances, we invite you to be a part of our community. Together, we can rewrite stories, reshape futures, and build a more inclusive digital world. Join us on this inspiring journey of collaboration and transformation.
+If you're passionate about technology, creativity, and making a positive impact, RC Journey welcomes you. Whether you're a returned citizen seeking a fresh start or someone who believes in the power of second chances, we invite you to be a part of our community. Together, we can rewrite stories, reshape futures, and build a more inclusive digital world. Join us on this inspiring journey of collaboration and transformation.
